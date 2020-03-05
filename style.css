@@ -2,7 +2,7 @@
     margin: 100px;
 }
 .orange-bg{
-    background-color: rgba(102, 255, 0, 0.637);
+    background-color:lightcoral;
     border-radius: 10px;
 }
 .carousel-item{
@@ -38,4 +38,22 @@
 }
 .catagories img{
     width: 100px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px lightblue;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: gray;
+}
+footer{
+    text-align: center;
 }
